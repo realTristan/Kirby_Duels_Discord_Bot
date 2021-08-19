@@ -1,6 +1,6 @@
 Kirby Duel Bot
 - Type !duel @user to start a duel with that user
-https://cdn.discordapp.com/attachments/855191729924734986/878059877149331539/unknown.png
-https://cdn.discordapp.com/attachments/855191729924734986/878060322311774288/unknown.png
-https://cdn.discordapp.com/attachments/855191729924734986/878060378217656400/unknown.png
-https://cdn.discordapp.com/attachments/855191729924734986/878060646015578122/unknown.png
+![unknown](https://user-images.githubusercontent.com/75189508/130157853-19d71832-b654-4d41-8f0c-ce3fe71045f1.png)
+![unknow2n](https://user-images.githubusercontent.com/75189508/130157858-ccbde259-b618-4296-8f11-0505f423cf10.png)
+![unknow3n](https://user-images.githubusercontent.com/75189508/130157857-1e769b86-ca68-40eb-9900-1ae8c0af1504.png)
+![unkno4wn](https://user-images.githubusercontent.com/75189508/130157856-2e94c09f-e392-441b-add1-03a8260beeba.png)
